@@ -1,0 +1,24 @@
+{
+    "origins": [
+        "hamburg",
+        "hannover"
+    ],
+    "travels": [
+        {
+            "origin": "ALL_ORIGINS",
+            "destinations": [
+                "glasgow"
+            ],
+            "startdate": "ANY",
+            "enddate": "ANY"
+        },
+        {
+            "origin": "ALL_ORIGINS",
+            "destinations": [
+                "oslo"
+            ],
+            "startdate": "ANY",
+            "enddate": "ANY"
+        }
+    ]
+}

@@ -555,3 +555,309 @@ JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error:
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 2018-04-29 17:34:51.098 plugin-container[65761:44803666] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa37, name = 'com.apple.tsm.portname'
 See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525075821938	geckodriver	INFO	geckodriver 0.20.1
+1525075822028	geckodriver	INFO	Listening on 127.0.0.1:52836
+1525075822944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.fA8epLeZiAH0"
+*** You are running in headless mode.
+1525075823588	Marionette	INFO	Enabled via --marionette
+2018-04-30 10:10:23.753 firefox-bin[73749:46486590] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 10:10:23.753 firefox-bin[73749:46486590] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 10:10:23.753 firefox-bin[73749:46486590] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 10:10:23.753 firefox-bin[73749:46486590] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 10:10:23.753 firefox-bin[73749:46486590] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 10:10:24.420 plugin-container[73750:46486711] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525075824740	Marionette	INFO	Listening on port 52847
+1525075824814	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 10:10:25.372 plugin-container[73751:46486862] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-30 10:10:31.139 plugin-container[73750:46486711] Error loading /Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn:  dlopen(/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn: mach-o, but wrong architecture
+2018-04-30 10:10:31.139 plugin-container[73750:46486711] Cannot find function pointer New_SHP_PlugIn for factory 834FC054-C1CC-11D6-BD01-00039315CD46 in CFBundle/CFPlugIn 0x12ab626a0 </Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin> (bundle, not loaded)
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1525075903333	geckodriver	INFO	geckodriver 0.20.1
+1525075903405	geckodriver	INFO	Listening on 127.0.0.1:52996
+1525075904353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.xtsLX6ausvLN"
+*** You are running in headless mode.
+1525075904868	Marionette	INFO	Enabled via --marionette
+2018-04-30 10:11:45.006 firefox-bin[73817:46494334] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 10:11:45.006 firefox-bin[73817:46494334] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 10:11:45.006 firefox-bin[73817:46494334] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 10:11:45.006 firefox-bin[73817:46494334] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 10:11:45.006 firefox-bin[73817:46494334] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 10:11:45.620 plugin-container[73818:46494435] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525075905896	Marionette	INFO	Listening on port 53008
+1525075905928	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 10:11:46.550 plugin-container[73819:46494575] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac2b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-30 10:11:49.158 plugin-container[73818:46494435] Error loading /Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn:  dlopen(/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn: mach-o, but wrong architecture
+2018-04-30 10:11:49.158 plugin-container[73818:46494435] Cannot find function pointer New_SHP_PlugIn for factory 834FC054-C1CC-11D6-BD01-00039315CD46 in CFBundle/CFPlugIn 0x124b6cf20 </Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin> (bundle, not loaded)
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/preloadjs_0.6.2_d7b96570d4552592ae479162e546cb25_min.js, line 13: ReferenceError: _this is not defined
+1525085328029	geckodriver	INFO	geckodriver 0.20.1
+1525085328123	geckodriver	INFO	Listening on 127.0.0.1:54309
+1525085329037	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.FpziXwwXT9lH"
+*** You are running in headless mode.
+1525085329568	Marionette	INFO	Enabled via --marionette
+2018-04-30 12:48:49.758 firefox-bin[75594:46910612] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:48:49.758 firefox-bin[75594:46910612] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:48:49.758 firefox-bin[75594:46910612] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:48:49.758 firefox-bin[75594:46910612] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:48:49.758 firefox-bin[75594:46910612] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:48:50.387 plugin-container[75596:46910737] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525085330674	Marionette	INFO	Listening on port 54327
+1525085330734	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 12:48:51.283 plugin-container[75598:46910864] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525085361204	geckodriver	INFO	geckodriver 0.20.1
+1525085361294	geckodriver	INFO	Listening on 127.0.0.1:54381
+1525085362204	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.o0vFoMsKqFbd"
+*** You are running in headless mode.
+1525085362734	Marionette	INFO	Enabled via --marionette
+2018-04-30 12:49:22.912 firefox-bin[75608:46913179] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:49:22.913 firefox-bin[75608:46913179] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:49:22.913 firefox-bin[75608:46913179] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:49:22.913 firefox-bin[75608:46913179] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:49:22.913 firefox-bin[75608:46913179] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:49:23.552 plugin-container[75609:46913332] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525085363866	Marionette	INFO	Listening on port 54394
+1525085363884	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 12:49:24.441 plugin-container[75611:46913481] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525085376960	geckodriver	INFO	geckodriver 0.20.1
+1525085377035	geckodriver	INFO	Listening on 127.0.0.1:54447
+1525085377985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.j1gtBW2rw9D2"
+*** You are running in headless mode.
+1525085378512	Marionette	INFO	Enabled via --marionette
+2018-04-30 12:49:38.671 firefox-bin[75621:46914899] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:49:38.671 firefox-bin[75621:46914899] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:49:38.671 firefox-bin[75621:46914899] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:49:38.672 firefox-bin[75621:46914899] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:49:38.672 firefox-bin[75621:46914899] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:49:39.287 plugin-container[75622:46915011] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525085379600	Marionette	INFO	Listening on port 54462
+1525085379654	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 12:49:40.197 plugin-container[75624:46915164] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-30 12:49:44.147 plugin-container[75622:46915011] Error loading /Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn:  dlopen(/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn: mach-o, but wrong architecture
+2018-04-30 12:49:44.147 plugin-container[75622:46915011] Cannot find function pointer New_SHP_PlugIn for factory 834FC054-C1CC-11D6-BD01-00039315CD46 in CFBundle/CFPlugIn 0x1267694c0 </Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin> (bundle, not loaded)
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1525085568208	geckodriver	INFO	geckodriver 0.20.1
+1525085568301	geckodriver	INFO	Listening on 127.0.0.1:54617
+1525085569213	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.ipzGjlullgMy"
+*** You are running in headless mode.
+1525085569734	Marionette	INFO	Enabled via --marionette
+2018-04-30 12:52:49.893 firefox-bin[75682:46931877] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:52:49.893 firefox-bin[75682:46931877] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:52:49.893 firefox-bin[75682:46931877] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:52:49.893 firefox-bin[75682:46931877] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:52:49.893 firefox-bin[75682:46931877] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:52:50.512 plugin-container[75683:46932289] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525085570780	Marionette	INFO	Listening on port 54632
+1525085570880	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 12:52:51.433 plugin-container[75685:46932437] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-30 12:52:58.405 plugin-container[75683:46932289] Error loading /Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn:  dlopen(/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn: mach-o, but wrong architecture
+2018-04-30 12:52:58.405 plugin-container[75683:46932289] Cannot find function pointer New_SHP_PlugIn for factory 834FC054-C1CC-11D6-BD01-00039315CD46 in CFBundle/CFPlugIn 0x120e334c0 </Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin> (bundle, not loaded)
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1525085659451	geckodriver	INFO	geckodriver 0.20.1
+1525085659525	geckodriver	INFO	Listening on 127.0.0.1:54761
+1525085660476	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.rmLPsyGrFsmu"
+*** You are running in headless mode.
+1525085660996	Marionette	INFO	Enabled via --marionette
+2018-04-30 12:54:21.164 firefox-bin[75701:46939263] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:54:21.164 firefox-bin[75701:46939263] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:54:21.164 firefox-bin[75701:46939263] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:54:21.164 firefox-bin[75701:46939263] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:54:21.164 firefox-bin[75701:46939263] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:54:21.778 plugin-container[75703:46939378] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525085662058	Marionette	INFO	Listening on port 54772
+1525085662154	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 12:54:22.696 plugin-container[75704:46939820] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-30 12:54:25.230 plugin-container[75703:46939378] Error loading /Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn:  dlopen(/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn: mach-o, but wrong architecture
+2018-04-30 12:54:25.231 plugin-container[75703:46939378] Cannot find function pointer New_SHP_PlugIn for factory 834FC054-C1CC-11D6-BD01-00039315CD46 in CFBundle/CFPlugIn 0x1288fcf20 </Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin> (bundle, not loaded)
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1525085724949	geckodriver	INFO	geckodriver 0.20.1
+1525085725023	geckodriver	INFO	Listening on 127.0.0.1:54892
+1525085725967	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.fuoq7tVu6uOF"
+*** You are running in headless mode.
+1525085726504	Marionette	INFO	Enabled via --marionette
+2018-04-30 12:55:26.651 firefox-bin[75719:46945405] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:55:26.651 firefox-bin[75719:46945405] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:55:26.651 firefox-bin[75719:46945405] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:55:26.651 firefox-bin[75719:46945405] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:55:26.651 firefox-bin[75719:46945405] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 12:55:27.277 plugin-container[75720:46945527] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525085727592	Marionette	INFO	Listening on port 54903
+1525085727634	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 12:55:28.194 plugin-container[75721:46945657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-30 12:55:33.400 plugin-container[75720:46945527] Error loading /Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn:  dlopen(/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn: mach-o, but wrong architecture
+2018-04-30 12:55:33.400 plugin-container[75720:46945527] Cannot find function pointer New_SHP_PlugIn for factory 834FC054-C1CC-11D6-BD01-00039315CD46 in CFBundle/CFPlugIn 0x11d6a26a0 </Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin> (bundle, not loaded)
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1525086209376	geckodriver	INFO	geckodriver 0.20.1
+1525086209464	geckodriver	INFO	Listening on 127.0.0.1:55253
+1525086210380	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.OoK6SiKeXQNl"
+*** You are running in headless mode.
+1525086210912	Marionette	INFO	Enabled via --marionette
+2018-04-30 13:03:31.083 firefox-bin[75847:46987685] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:03:31.083 firefox-bin[75847:46987685] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:03:31.083 firefox-bin[75847:46987685] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:03:31.083 firefox-bin[75847:46987685] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:03:31.084 firefox-bin[75847:46987685] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:03:31.720 plugin-container[75848:46987823] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525086212022	Marionette	INFO	Listening on port 55264
+1525086212042	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 13:03:32.627 plugin-container[75854:46987991] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525086228500	geckodriver	INFO	geckodriver 0.20.1
+1525086228593	geckodriver	INFO	Listening on 127.0.0.1:55312
+1525086229510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.mlGZG7Xbwe9g"
+*** You are running in headless mode.
+1525086230046	Marionette	INFO	Enabled via --marionette
+2018-04-30 13:03:50.194 firefox-bin[75863:46989651] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:03:50.194 firefox-bin[75863:46989651] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:03:50.194 firefox-bin[75863:46989651] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:03:50.194 firefox-bin[75863:46989651] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:03:50.194 firefox-bin[75863:46989651] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:03:50.819 plugin-container[75864:46989772] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb333, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525086231114	Marionette	INFO	Listening on port 55324
+1525086231176	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 13:03:51.964 plugin-container[75870:46989934] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525086245806	geckodriver	INFO	geckodriver 0.20.1
+1525086245892	geckodriver	INFO	Listening on 127.0.0.1:55371
+1525086246825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.OCsl18yQEl6m"
+*** You are running in headless mode.
+1525086247352	Marionette	INFO	Enabled via --marionette
+2018-04-30 13:04:07.499 firefox-bin[75880:46991653] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:04:07.499 firefox-bin[75880:46991653] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:04:07.499 firefox-bin[75880:46991653] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:04:07.499 firefox-bin[75880:46991653] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:04:07.499 firefox-bin[75880:46991653] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:04:08.132 plugin-container[75881:46991779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525086248428	Marionette	INFO	Listening on port 55382
+1525086248504	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 13:04:09.039 plugin-container[75887:46991915] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa93b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-30 13:04:12.309 plugin-container[75881:46991779] Error loading /Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn:  dlopen(/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn: mach-o, but wrong architecture
+2018-04-30 13:04:12.309 plugin-container[75881:46991779] Cannot find function pointer New_SHP_PlugIn for factory 834FC054-C1CC-11D6-BD01-00039315CD46 in CFBundle/CFPlugIn 0x117e256a0 </Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin> (bundle, not loaded)
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 75881, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1525086270405	geckodriver	INFO	geckodriver 0.20.1
+1525086270495	geckodriver	INFO	Listening on 127.0.0.1:55509
+1525086271428	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.ffRVlYT6aYME"
+*** You are running in headless mode.
+1525086272012	Marionette	INFO	Enabled via --marionette
+2018-04-30 13:04:32.174 firefox-bin[75897:46994644] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:04:32.175 firefox-bin[75897:46994644] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:04:32.175 firefox-bin[75897:46994644] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:04:32.175 firefox-bin[75897:46994644] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:04:32.175 firefox-bin[75897:46994644] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:04:32.924 plugin-container[75898:46994764] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525086273298	Marionette	INFO	Listening on port 55520
+1525086273406	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 13:04:33.817 plugin-container[75904:46994916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-30 13:04:40.679 plugin-container[75898:46994764] Error loading /Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn:  dlopen(/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn: mach-o, but wrong architecture
+2018-04-30 13:04:40.679 plugin-container[75898:46994764] Cannot find function pointer New_SHP_PlugIn for factory 834FC054-C1CC-11D6-BD01-00039315CD46 in CFBundle/CFPlugIn 0x11ba7b2e0 </Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin> (bundle, not loaded)
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1525086359098	geckodriver	INFO	geckodriver 0.20.1
+1525086359171	geckodriver	INFO	Listening on 127.0.0.1:55722
+1525086360120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/r0/y6_scgh15rv8mm1932fcfmwm0000gn/T/rust_mozprofile.YFNFWU2mNQp7"
+*** You are running in headless mode.
+1525086360632	Marionette	INFO	Enabled via --marionette
+2018-04-30 13:06:00.815 firefox-bin[75925:47003032] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:06:00.815 firefox-bin[75925:47003032] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:06:00.815 firefox-bin[75925:47003032] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:06:00.815 firefox-bin[75925:47003032] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:06:00.815 firefox-bin[75925:47003032] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2018-04-30 13:06:01.473 plugin-container[75926:47003158] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1525086361796	Marionette	INFO	Listening on port 55733
+1525086361902	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-30 13:06:02.405 plugin-container[75932:47003321] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-30 13:06:09.486 plugin-container[75926:47003158] Error loading /Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn:  dlopen(/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin/Contents/MacOS/SeratoVirtualAudioPlugIn: mach-o, but wrong architecture
+2018-04-30 13:06:09.486 plugin-container[75926:47003158] Cannot find function pointer New_SHP_PlugIn for factory 834FC054-C1CC-11D6-BD01-00039315CD46 in CFBundle/CFPlugIn 0x1257a4c40 </Library/Audio/Plug-Ins/HAL/SeratoVirtualAudioPlugIn.plugin> (bundle, not loaded)
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.momondo.de/px/client/main.min.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).

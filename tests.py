@@ -16,7 +16,7 @@ def getPrice(result):
 
 # DEFINITIONS
 origin = "hamburg"
-destination = "oslo"
+destination = "chicago"
 
 date1 = "2018-6-1"
 date2 = "2018-6-5"
